@@ -24,7 +24,10 @@
 				"C:/Users/wivi5/OneDrive/Documents/Unreal Projects/GEIII_semaine07/UE5_GEIII_7.1/AnimTPS/Content/AnimMixamo/Animation/MyAnimBP.uasset",
 				"C:/Users/wivi5/OneDrive/Documents/Unreal Projects/GEIII_semaine07/UE5_GEIII_7.1/AnimTPS/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/wivi5/OneDrive/Documents/Unreal Projects/GEIII_semaine07/UE5_GEIII_7.1/AnimTPS/Content/AnimMixamo/Animation/Falling_Idle.uasset",
-				"C:/Users/wivi5/OneDrive/Documents/Unreal Projects/GEIII_semaine07/UE5_GEIII_7.1/AnimTPS/Content/AnimMixamo/Animation/Jump_Attack.uasset"
+				"C:/Users/wivi5/OneDrive/Documents/Unreal Projects/GEIII_semaine07/UE5_GEIII_7.1/AnimTPS/Content/AnimMixamo/Animation/Jump_Attack.uasset",
+				"C:/Users/wivi5/OneDrive/Documents/Unreal Projects/GEIII_semaine07/UE5_GEIII_7.1/AnimTPS/Content/AnimMixamo/Animation/JumpAnimationMontage.uasset",
+				"C:/Users/wivi5/OneDrive/Documents/Unreal Projects/GEIII_semaine07/UE5_GEIII_7.1/AnimTPS/Content/AnimMixamo/Animation/AttackAnimationMontage.uasset",
+				"C:/Users/wivi5/OneDrive/Documents/Unreal Projects/GEIII_semaine07/UE5_GEIII_7.1/AnimTPS/Content/AnimMixamo/Animation/Standing_Melee_Attack_Horizontal.uasset"
 			]
 		}
 	]
